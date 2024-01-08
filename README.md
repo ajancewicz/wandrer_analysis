@@ -24,3 +24,6 @@ This code was designed in python, using Jupyter Notebooks. It pulls data from th
 1. Improve map output coverage
 2. Identify regions closest to my hubs (transit, activities, work)
 3. Update worth score to account for Explorer Achievement points, rather than raw region miles.
+
+## Acknowledgements
+Thanks to @Craig Durkin for the awesome game of running every street in my city, and allowing me to leverage his site to practice my new programming and analysis skills.
